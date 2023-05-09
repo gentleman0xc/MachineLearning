@@ -1,4 +1,4 @@
-# Projeto 1 - Classificação de Texto com aprendizagem supervisionada
+#  Classificação de Texto com aprendizagem supervisionada
 
 #Pacotes 
 import re # pacote expressão regular (usado para filtrar o texto)
